@@ -25,7 +25,7 @@ typedef enum _FAN_MODE
 typedef enum _FAN_PROFILE
 {
 	FAN_PF_NORMAL	= 0,				// normal fan control
-	FAN_PF_OVERHEAT	= 1,				// overheat fan control
+	FAN_PF_OVERHEAT	= 2,				// overheat fan control
 	FAN_PF_PREHEAT	= 2,				// preheat fan control
 } FAN_PROFILE;
 
